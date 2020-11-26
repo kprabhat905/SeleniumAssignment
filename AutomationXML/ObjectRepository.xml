@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+	<HomePage>
+		<ElementProperty NameOfElement="AvailableHeading" Type="cssSelector">.available-games .heading</ElementProperty>
+		<ElementProperty NameOfElement="GameTiles" Type="cssSelector">#game_list li</ElementProperty>
+		<ElementProperty NameOfElement="GameTilesLink" Type="cssSelector">#game_list a</ElementProperty>
+		
+		<ElementProperty NameOfElement="Header" Type="cssSelector">.banner-content .heading</ElementProperty>
+		<ElementProperty NameOfElement="TournamentsCount" Type="cssSelector">.heading.section-heading</ElementProperty>
+    	
+	</HomePage>
+	
+	
+</Modules>	
